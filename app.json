@@ -1,0 +1,7 @@
+{
+  "name": "Aztro",
+  "description": "aztro REST API allows developers to access and integrate the functionality of aztro with other applications. The API retrieves daily horoscopes for yesterday, today, and tomorrow.",
+  "repository": "https://github.com/hipnoart/aztro",
+  "logo": "",
+  "keywords": ["astrology", "daily", "aztro"]
+}
